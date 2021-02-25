@@ -25,7 +25,7 @@ body {
   font-family: var(--secondary-font);
   font-weight: 700;
   font-size: 26px;
-  line-height: 1, 19;
+  line-height: 1.19;
   letter-spacing: 0.03em;
 }
 .web {
@@ -43,7 +43,7 @@ body {
 .modal-btn {
   font-weight: 700;
   font-size: 16px;
-  line-height: 1, 9;
+  line-height: 1.9;
   display: flex;
   align-items: center;
   text-align: center;
@@ -64,7 +64,7 @@ body {
 .title {
   font-weight: 700;
   font-size: 36px;
-  line-height: 1, 17;
+  line-height: 1.17;
   text-align: center;
   letter-spacing: 0.03em;
   color: #212121;
@@ -75,7 +75,7 @@ body {
 .navigation-link {
   font-weight: 500;
   font-size: 14px;
-  line-height: 1, 14;
+  line-height: 1.14;
   letter-spacing: 0.02em;
   color: #212121;
 }
@@ -90,7 +90,7 @@ body {
 .tel-link {
   font-weight: 500;
   font-size: 14px;
-  line-height: 1, 14;
+  line-height: 1.14;
   letter-spacing: 0.02em;
   color: #757575;
 }
@@ -107,7 +107,7 @@ body {
 .hero-title {
   font-weight: 900;
   font-size: 44px;
-  line-height: 1, 36;
+  line-height: 1.36;
   text-align: center;
   letter-spacing: 0.06em;
   text-transform: uppercase;
@@ -119,7 +119,7 @@ body {
 .features-list {
   font-weight: 700;
   font-size: 14px;
-  line-height: 1, 14;
+  line-height: 1.14;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #212121;
@@ -128,7 +128,7 @@ body {
 .description {
   font-weight: 400;
   font-size: 14px;
-  line-height: 1, 7;
+  line-height: 1.7;
   letter-spacing: 0.03em;
   color: #757575;
 }
@@ -142,7 +142,7 @@ body {
 .team_member {
   font-weight: 500;
   font-size: 16px;
-  line-height: 1, 19;
+  line-height: 1.19;
   text-align: center;
   letter-spacing: 0.03em;
   color: #212121;
@@ -150,7 +150,7 @@ body {
 .member-discription {
   font-weight: normal;
   font-size: 16px;
-  line-height: 1, 19;
+  line-height: 1.19;
   letter-spacing: 0.03em;
   color: #757575;
 }
@@ -164,7 +164,7 @@ body {
 .contact-list-link {
   font-weight: 400;
   font-size: 14px;
-  line-height: 1, 7;
+  line-height: 1.7;
   letter-spacing: 0.03em;
 
   color: #ffffff;
@@ -173,7 +173,7 @@ body {
 .contact-list-item {
   font-weight: 400;
   font-size: 14px;
-  line-height: 1, 7;
+  line-height: 1.7;
   letter-spacing: 0.03em;
   color: #ffffff99;
 }
@@ -187,7 +187,7 @@ body {
 .btn {
   font-weight: 500;
   font-size: 16px;
-  line-height: 1, 625;
+  line-height: 1.625;
   text-align: center;
   letter-spacing: 0.03em;
 
@@ -209,7 +209,7 @@ body {
 
 .portfolio-disc {
   font-size: 16px;
-  line-height: 1, 9;
+  line-height: 1.9;
   letter-spacing: 0.03em;
   color: #757575;
 }
