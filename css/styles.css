@@ -6,6 +6,7 @@
 body {
   font-family: var(--main-font);
   font-weight: 400;
+  background: #fff;
 }
 
 .link {
@@ -48,12 +49,17 @@ body {
   text-align: center;
   letter-spacing: 0.06em;
   cursor: pointer;
-
-  /*color: #ffffff;*/
+  color: #ffffff;
+  background: #2196f3;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+  border-radius: 4px;
 }
 .modal-btn:hover,
 .modal-btn:focus {
   color: #fff;
+  background: #188ce8;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+  border-radius: 4px;
 }
 .title {
   font-weight: 700;
@@ -73,8 +79,11 @@ body {
   letter-spacing: 0.02em;
   color: #212121;
 }
-.navigation-link:hover,
+/*.navigation-link:hover,
 .navigation-link:focus {
+  color: #2196f3;
+}*/
+.current {
   color: #2196f3;
 }
 
@@ -92,6 +101,9 @@ body {
 /*===========END HEADER=========*/
 
 /*===========HERO==========*/
+.hero {
+  background: #2f303a;
+}
 .hero-title {
   font-weight: 900;
   font-size: 44px;
@@ -100,7 +112,7 @@ body {
   letter-spacing: 0.06em;
   text-transform: uppercase;
 
-  /*color: #ffffff;*/
+  color: #ffffff;
 }
 
 /*===========FEATURES==========*/
@@ -110,7 +122,7 @@ body {
   line-height: 1, 14;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  /*color: #212121;*/
+  color: #212121;
 }
 
 .description {
@@ -145,20 +157,24 @@ body {
 /*===========END OUR TEAM==========*/
 
 /*===========FOOTER==========*/
+.footer {
+  background: #2f303a;
+}
 .contact-list-link {
   font-weight: 400;
   font-size: 14px;
   line-height: 1, 7;
   letter-spacing: 0.03em;
 
-  /*color: #FFFFFF;*/
+  color: #ffffff;
 }
+
 .contact-list-item {
   font-weight: 400;
   font-size: 14px;
   line-height: 1, 7;
   letter-spacing: 0.03em;
-  /* color: #ffffff99;*/
+  color: #ffffff99;
 }
 .contact-list-link:hover,
 .contact-list-link:hover {
