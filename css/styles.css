@@ -79,10 +79,10 @@ body {
   letter-spacing: 0.02em;
   color: #212121;
 }
-/*.navigation-link:hover,
+.navigation-link:hover,
 .navigation-link:focus {
   color: #2196f3;
-}*/
+}
 .current {
   color: #2196f3;
 }
