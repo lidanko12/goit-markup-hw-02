@@ -88,6 +88,9 @@ body {
 /*===========END COMPONENT==========*/
 
 /*===========HEADER==========*/
+.header {
+  background: var(--background-header);
+}
 .navigation-link {
   font-weight: 500;
   font-size: 14px;
@@ -143,6 +146,7 @@ body {
 }
 
 /*===========FEATURES==========*/
+
 .features-list {
   font-weight: 700;
   font-size: 14px;
@@ -161,12 +165,12 @@ body {
 }
 /*===========END FEATURES==========*/
 
-/*===========FEATURES==========*/
+/*===========DOING==========*/
 
-/*===========END FEATURES==========*/
+/*===========END DOING==========*/
 
 /*===========OUR TEAM==========*/
-.team-list {
+.team {
   background: var(--team-background);
 }
 .team_member {
@@ -208,7 +212,7 @@ body {
   color: var(--link-color);
 }
 .contact-list-link:hover,
-.contact-list-link:hover {
+.contact-list-link:focus {
   color: var(--second-color);
 }
 /*=========== END FOOTER==========*/
