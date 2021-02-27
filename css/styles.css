@@ -158,6 +158,9 @@ body {
 /*===========END FEATURES==========*/
 
 /*===========DOING==========*/
+.doing-list {
+  columns: 3;
+}
 
 /*===========END DOING==========*/
 
@@ -167,6 +170,8 @@ body {
 }
 .team-list {
   color: var(--nav-color);
+  columns: 4;
+  text-align: center;
 }
 .team_members {
   font-weight: 500;
@@ -211,6 +216,9 @@ body {
 /*=========== END FOOTER==========*/
 
 /*===========PORTFOLIO MENU==========*/
+.portfolio-list {
+  columns: 3;
+}
 .btn {
   font-weight: 500;
   font-size: 16px;
@@ -220,6 +228,8 @@ body {
   background-color: var(--team-background);
   color: var(--nav-color);
   cursor: pointer;
+  border-radius: 4px;
+  border: 0px;
 }
 .btn:hover,
 .btn:hover {
