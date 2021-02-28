@@ -167,6 +167,7 @@ body {
   background-color: var(--team-background);
 }
 .team-list {
+  text-align: center;
   columns: 4;
 }
 .team-members {
