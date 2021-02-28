@@ -1,10 +1,8 @@
 :root {
   --main-font: 'Roboto', sans-serif;
   --secondary-font: 'Raleway', sans-serif;
-  --main-background: #ffffff;
   --second-background: #2f303a;
   --team-background: #f5f4fa;
-  --btn-main-background: #2196f3;
   --btn-active-background: #188ce8;
   --nav-color: #212121;
   --main-color: #ffffff;
@@ -17,7 +15,7 @@
 body {
   font-family: var(--main-font);
   font-weight: 400;
-  background: var(--main-background);
+  background: var(--main-color);
 }
 
 .link {
@@ -62,7 +60,7 @@ body {
   letter-spacing: 0.06em;
   cursor: pointer;
   color: var(--main-color);
-  background: var(--btn-main-background);
+  background: var(--second-color);
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
   border-radius: 4px;
 }
@@ -233,7 +231,7 @@ body {
 }
 .btn:hover,
 .btn:hover {
-  background-color: var(--btn-main-background);
+  background-color: var(--second-color);
   color: var(--main-color);
 }
 .portfolio-name {
